@@ -1,1 +1,1 @@
-This is one of several notebooks and videos on X.com as part of the AI for Godd Music series.
+This is one of several notebooks and videos on X @ https://twitter.com/barrios_ai/ with Jonathan Barrios https://twitter.com/ai_data_science/ as part of the AI for Good Music series. 🖖
